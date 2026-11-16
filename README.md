@@ -6,10 +6,9 @@ Projeto de Extensão III · Análise e Desenvolvimento de Sistemas
 
 | | |
 |---|---|
-| Autor(a) | [Nome do aluno] |
-| Instituição | [Nome da instituição] |
+| Autor(a) | [Leonardo Santos] |
+| Instituição | [Faculdade Descomplica] |
 | Curso | Análise e Desenvolvimento de Sistemas |
-| Orientador(a) | [Nome do orientador] |
 | Ano | 2026 |
 
 ---
